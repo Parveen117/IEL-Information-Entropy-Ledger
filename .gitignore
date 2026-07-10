@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.ipynb
+.ipynb_checkpoints/
+.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.log

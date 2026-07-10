@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or discuss this software, please cite it using the metadata below."
+title: "IEL Information–Entropy Ledger"
+type: software
+version: "1.0.0"
+date-released: "2026-07-11"
+authors:
+  - family-names: "Dabas"
+    given-names: "Monty"
+repository-code: "https://github.com/Parveen117/IEL-Information-Entropy-Ledger"
+abstract: >-
+  A deterministic local append-only ledger for restricted information-invariance,
+  entropy-direction, state-transition, file-proof, hash-chain, and reproducible verification experiments.
+keywords:
+  - information entropy ledger
+  - append-only ledger
+  - cryptographic commitment
+  - deterministic verification
+  - proof of existence
+  - hash chain
+  - state transition
