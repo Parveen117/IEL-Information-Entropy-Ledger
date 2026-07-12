@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use or discuss this software, please cite it using the metadata below."
 title: "IEL Information–Entropy Ledger"
 type: software
-version: "1.0.0"
-date-released: "2026-07-11"
+version: "1.0.1"
+date-released: "2026-07-12"
 authors:
   - family-names: "Dabas"
     given-names: "Monty"
