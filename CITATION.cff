@@ -7,7 +7,10 @@ date-released: "2026-07-11"
 authors:
   - family-names: "Dabas"
     given-names: "Monty"
+    orcid: "https://orcid.org/0009-0005-6948-209X"
+    affiliation: "Independent Researcher"
 repository-code: "https://github.com/Parveen117/IEL-Information-Entropy-Ledger"
+url: "https://github.com/Parveen117/IEL-Information-Entropy-Ledger"
 abstract: >-
   A deterministic local append-only ledger for restricted information-invariance,
   entropy-direction, state-transition, file-proof, hash-chain, and reproducible verification experiments.
