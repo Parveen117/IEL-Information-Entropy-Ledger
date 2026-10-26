@@ -1,5 +1,8 @@
 # IEL Information–Entropy Ledger
 
+> **Research record:** [Dated snapshot, content hashes and archive links](RESEARCH_PROVENANCE.md) · [Canonical repository governance](GOVERNANCE.md). Cite the exact version used.
+
+
 IEL is a deterministic, local, append-only ledger for recording state transitions, file proofs, and machine-verifiable integrity evidence.
 
 ## Core model

@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "repository": "Parveen117/IEL-Information-Entropy-Ledger",
+  "recorded_at_utc": "2026-10-26T14:24:22.218045+00:00",
+  "scope": "Default-branch content immediately before the 2026-10-26 provenance update.",
+  "baseline_branch": "main",
+  "baseline_commit": "4d2b2895905c492a4a397f46df9f5563ef214915",
+  "baseline_tree": "46e066f14d70c032fc2a9f8919fe59d9283bf560",
+  "baseline_commit_url": "https://github.com/Parveen117/IEL-Information-Entropy-Ledger/commit/4d2b2895905c492a4a397f46df9f5563ef214915",
+  "git_object_hash_algorithm": "sha1",
+  "content_hash_algorithm": "sha256",
+  "limits": [
+    "Git timestamps are metadata, not independent trusted timestamps.",
+    "This manifest excludes its own later provenance update.",
+    "A prior DOI covers its archived version, not later commits.",
+    "Hashes establish content identity, not scientific validity, authorship adjudication, or legal priority."
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "190dcaafea82dee8d5b5d5311ba72f05f064b195",
+      "size_bytes": 86,
+      "sha256": "930961205849033fdd12c1272bed64d61f07e9eca30fde8643420ff800f3ab41"
+    },
+    {
+      "path": "CITATION.cff",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "bfcce59d7c377166bb0a1a0efb0a16ef920a1c7e",
+      "size_bytes": 895,
+      "sha256": "bacdc574e886e4ecd1781b1ca785906dbc8dc04642807359c7a2ca2ff4b98729"
+    },
+    {
+      "path": "COPYRIGHT_NOTICE.md",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "b9f8a33dfa852d726d131e2e000c1575f0631203",
+      "size_bytes": 315,
+      "sha256": "9fe568418066f5f44100d3c4bc9eef97aa434d9b2b8f030bdc0935da7030a8f9"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "a76da54afb6daee4626d279eb1528c5472594404",
+      "size_bytes": 766,
+      "sha256": "11b3e247d89cbfded544e7455b253dd53fcf0eb6ea634e7750af7484f3ba5ee4"
+    },
+    {
+      "path": "PATENT_NOTICE.md",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "a59f67b3b648075a476955cfe0e4246eba5d5655",
+      "size_bytes": 849,
+      "sha256": "eb83cbfad061999efe767c7e85bf09a378dce5cb940162b6e11c7e5c3bd2221e"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "68ff231e78e87b658e28b16c2ed82b523f255bfd",
+      "size_bytes": 1864,
+      "sha256": "1810c3eb5f8e0f4225faac32a8be27e482a209374a7aa0b4bb4be4a46c036270"
+    },
+    {
+      "path": "SECURITY.md",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "fd8f51ba04435fc017d0a74555e9df15e94e6538",
+      "size_bytes": 905,
+      "sha256": "98f68958f29c2951e46faeaa0d685942fa30fd6de2888ca4b4a53cb5ea099e6c"
+    },
+    {
+      "path": "demo_ledger/ledger.jsonl",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "81605a8626269e5ffc55d5df27787155b79d8a6d",
+      "size_bytes": 1212,
+      "sha256": "2b512f5fee61f7ca39445c59120b377e43c235126bbd58f87f3241e99879b2a4"
+    },
+    {
+      "path": "demo_ledger/state.json",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "33aa288e7c1ab5f6eb3b9e9356b657fc378a8e99",
+      "size_bytes": 27,
+      "sha256": "c3222f0224880d0bb52891208b0def4ac647ee059dd330d2da2debbacf5d881a"
+    },
+    {
+      "path": "docs/PUBLIC_RELEASE_BOUNDARY.md",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "459ae8954dbac5e5ad4dc20ec5d7366c6fd0339d",
+      "size_bytes": 1453,
+      "sha256": "e9a376863cceca0df4691c557a6c125d549a88c5fea62411349623f1ca29405d"
+    },
+    {
+      "path": "iel1_cli_v2.py",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "ae035e251c83b275f69779a41ae446dcb5abfe58",
+      "size_bytes": 4718,
+      "sha256": "3c90d812366a68e319636bcbc53fed17cb88ec291bdf1b53aa54e42448bea299"
+    },
+    {
+      "path": "iel1_core.py",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "388b35cec4b9582e0c6ded52b111bf9f61deb739",
+      "size_bytes": 5398,
+      "sha256": "7e645c72f554d9c3e77cac8496987429430f530ec936071c4758db865c050c5c"
+    },
+    {
+      "path": "iel1_storage_v2.py",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "155bcc50a7491501644c553f895cf1af1af4f5ed",
+      "size_bytes": 14057,
+      "sha256": "4b7984b49359f7a475bfb2544045668bf68da829cce3dcbf38d8e649614f4419"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "d20ab241d27dc7725aa44a80b378a6c9da07f7b1",
+      "size_bytes": 52,
+      "sha256": "7c5c97fe65c1f9735030038254cd2dd3febb772a8b54d0f8db936d02e86a5fbe"
+    },
+    {
+      "path": "sample_evidence.txt",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "df2bf5327992eeacd8038fdc115675e9373b8463",
+      "size_bytes": 59,
+      "sha256": "bbdab528bfa79cdd9561ed1e718b593cc1bc0d087ce07b2a9b7d85bababad276"
+    }
+  ],
+  "published_releases": [
+    {
+      "tag": "v1",
+      "published_at": "2026-07-10T21:43:45Z",
+      "url": "https://github.com/Parveen117/IEL-Information-Entropy-Ledger/releases/tag/v1",
+      "immutable": false,
+      "tag_object": {
+        "sha": "edc64397a51a6bef1fe593a40f3958281a928a2e",
+        "type": "commit",
+        "url": "https://api.github.com/repos/Parveen117/IEL-Information-Entropy-Ledger/git/commits/edc64397a51a6bef1fe593a40f3958281a928a2e"
+      }
+    },
+    {
+      "tag": "v2",
+      "published_at": "2026-07-10T21:49:00Z",
+      "url": "https://github.com/Parveen117/IEL-Information-Entropy-Ledger/releases/tag/v2",
+      "immutable": false,
+      "tag_object": {
+        "sha": "edc64397a51a6bef1fe593a40f3958281a928a2e",
+        "type": "commit",
+        "url": "https://api.github.com/repos/Parveen117/IEL-Information-Entropy-Ledger/git/commits/edc64397a51a6bef1fe593a40f3958281a928a2e"
+      }
+    },
+    {
+      "tag": "v1.0.1",
+      "published_at": "2026-07-12T05:31:57Z",
+      "url": "https://github.com/Parveen117/IEL-Information-Entropy-Ledger/releases/tag/v1.0.1",
+      "immutable": false,
+      "tag_object": {
+        "sha": "b269a81b8a22324b1ad5ffc6475d8865fe98c0f3",
+        "type": "commit",
+        "url": "https://api.github.com/repos/Parveen117/IEL-Information-Entropy-Ledger/git/commits/b269a81b8a22324b1ad5ffc6475d8865fe98c0f3"
+      }
+    }
+  ],
+  "zenodo_archive": null
+}
